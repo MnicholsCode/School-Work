@@ -1,1 +1,1 @@
-# These are the project from school assignments
+# These are the projects worked on for school
