@@ -1,0 +1,10 @@
+carat,cut,color,clarity,price
+0.36,Ideal,E,VS2,1013
+0.3,Fair,J,VS2,416
+1.22,Ideal,H,SI1,6541
+0.48,Good,G,SI1,914
+0.75,Ideal,J,VS1,2300
+0.31,Premium,H,VVS2,802
+2.48,Very Good,H,SI2,15746
+1,Good,D,SI1,5469
+0.51,Very Good,F,VS1,1627

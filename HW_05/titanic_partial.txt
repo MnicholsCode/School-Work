@@ -1,0 +1,11 @@
+Survived	Pclass	Name	Sex	Age	Fare
+0	3	Mr. Owen Harris Braund	male	22	7.25
+1	3	Miss. Laina Heikkinen	female	26	7.925
+1	2	Mrs. Nicholas Nasser	female	14	30.0708
+1	3	Miss. Marguerite Rut Sandstrom	female	4	16.7
+1	1	Miss. Elizabeth Bonnell	female	58	26.55
+0	3	Mr. William Henry Saundercock	male	20	8.05
+0	3	Mr. Anders Johan Andersson	male	39	31.275
+0	3	Miss. Hulda Amanda Adolfina Vestrom	female	14	7.8542
+0	3	Master. Eugene Rice	male	2	29.125
+1	2	Mr. Charles Eugene Williams	male	23	13
